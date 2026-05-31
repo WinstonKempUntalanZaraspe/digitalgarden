@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/bruhhhhh/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-hello whats good
+hello whats goo
 g
 gng
 gfnnfnf
